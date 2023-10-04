@@ -38,4 +38,4 @@ Fall2023_StuEnr_FKM <- Fall2023_StuEnr_FKM %>%
 Fall2023_StuEnr_FKM %>% 
   select(Term, Campus, Subject, Component, `Total Enrollment`, `LMS URL`, D2L_CRSEID, 
          Instructor, INSTRUCTOR_NETID, `Preferred Email Address`,
-         `Class Number`, CATALOG_NBR, `Cat #`, )
+         `Class Number`, CATALOG_NBR, `Cat #`, `Academic Organization Level 1 Desc`)
